@@ -1,0 +1,63 @@
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-Bold.woff');
+  }
+.textContainer1{
+    text-align: center;
+    padding: 100px 200px;
+}
+
+.logoContainer1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+
+#t{
+    font-size: 20px;
+    color:#1f212d;
+}
+
+.containerColor {
+    background-color: #e0ded2;
+}
+
+.haver:hover{
+    color:red;
+}
+
+.containerIcons i  {
+    display: inline-block;
+  padding: 5px;
+}
+
+.post{
+
+   
+    border-radius:3px;
+    background-color:#fff;
+  
+   
+
+}
+.containerPost{
+    background-color: #f2f3f5;
+   
+}
+
+.haver{
+    padding: 5px;
+}
+
+.haver1{
+    padding: 2px;
+}
+h3{
+    font-family: 'Gilroy';
+}
+.card-body{
+    height: 200px!important;
+
+}
